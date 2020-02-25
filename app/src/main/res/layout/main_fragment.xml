@@ -21,7 +21,7 @@
         android:padding="10dp"
         android:layout_marginRight="55dp"
         android:textColor="#fff"
-        android:background="#00B4FB"
+        android:background="#8E24AA"
         android:text="Increment"/>
 
     <Button
@@ -31,7 +31,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="200dp"
         android:padding="10dp"
-        android:background="#94F701"
+        android:background="#571B68"
         android:textColor="#fff"
         android:layout_marginLeft="55dp"
         android:text="Decrement"/>
